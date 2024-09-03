@@ -1,0 +1,28 @@
+body{
+    background-color: #EBF5F7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Seletor de Classe*/
+.centraliza{
+    text-align: center;
+}
+
+.line{
+    display: inline;
+}
+
+li{
+    padding: 0.6%;
+}
+
+nav{
+    text-align: center;
+    background-color: #71DFF5;
+    padding: 0.6%;
+    border: solid;
+}
+
+#pessoais{
+    border-style: groove;
+}
