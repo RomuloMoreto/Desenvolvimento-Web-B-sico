@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+}
+
+.item{
+    border: solid;
+    /* width: 40%; */
+    width: 30%;
+}
+
+.icon-network{
+    font-size: xx-large;
+}
+
+@media screen and (max-width: 1020px) {
+    .item{
+        width: 15%;
+    }
+    
+}

@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.topo{
+    h1{
+        margin-top: 4%;
+        margin-bottom: 4%;
+        margin-left: 2%;
+        margin-right: 2%;
+        text-align: center;
+    }
+    h2{
+        margin-top: 3%;
+        text-align: center;
+    }
+}
+
+.num1{
+    margin-top: 5%;
+    margin-left: 33%;
+}
+
+.num2{
+    margin-top: 1.5%;
+    margin-left: 33%;
+}
+
+.num3{
+    margin-top: 1.5%;
+    margin-left: 33%;
+}
+
+.sm{
+    margin-top: 1.5%;
+    margin-left: 33%;
+    p{
+        margin-bottom: 1.5%;
+    }
+    accent-color: aqua;
+}
+
+.vr{
+    margin-top: 1.5%;
+    margin-left: 33%;
+}
